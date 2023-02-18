@@ -45,7 +45,7 @@ p {
 }
 
 #header {
-  background-image: url("https://www.udacity.com/blog/wp-content/uploads/2021/01/Cloud-Engineer-Jobs_Blog-scaled.jpeg");
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcloud-computing-background&psig=AOvVaw0E13bniIgryjYkKM7Z_BCN&ust=1676805738837000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjkr-Kfn_0CFQAAAAAdAAAAABAJ");
   background-size: cover;
 }
 
@@ -58,7 +58,7 @@ p {
 
 #header p {
   font-size: 60pt;
-  color: #ff0000;
+  color: #ffffff;
   padding-top: 8px;
   margin: 0;
   font-weight: bold;
